@@ -1,12 +1,12 @@
 # Personal Portfolio Website ⚡️ 
 > A clean, beautiful, responsive portfolio template!
 
-> https://anjitagargi.netlify.app/
+> https://anjitagargi-myportfolio.netlify.app/
 
 ### Website Preview
 <p align="center"> 
   <kbd>
-    <a href="" target="_blank"><img src="examples/preview.gif">
+    <a href="" target="_blank"><img src="examples/preview.">
   </a>
   </kbd>
 </p>
@@ -27,7 +27,7 @@
 ✔️ Contact
 
 
-To view a live example, **[click here](https://anjitagargi.netlify.app/)**
+To view a live example, **[click here](https://anjitagargi-myportfolio.netlify.app/)**
 
 ## Tools Used 🛠️
 * [<b>Netlify</b>]
