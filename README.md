@@ -5,10 +5,9 @@
 
 ### Website Preview
 <p align="center"> 
-  <kbd>
 
 https://github.com/anjitagargi/portfolio-website/assets/91597725/d58e2809-b40c-4d5c-96b5-c32aa393ff7f
-  </kbd>
+
 </p>
 
 :star: Star me on GitHub — it helps!
