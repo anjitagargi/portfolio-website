@@ -6,8 +6,8 @@
 ### Website Preview
 <p align="center"> 
   <kbd>
-    <a href="" target="_blank"><img src="examples/preview.mp4">
-  </a>
+
+https://github.com/anjitagargi/portfolio-website/assets/91597725/d58e2809-b40c-4d5c-96b5-c32aa393ff7f
   </kbd>
 </p>
 
