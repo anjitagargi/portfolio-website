@@ -29,10 +29,11 @@ If you'd like to get in touch with me, this is the section to do it. You'll find
 To view a live example, **[click here](https://anjitagargi-myportfolio.netlify.app/)**
 
 ## Tools Used 🛠️
-* <b>Netlify</b>
+
 * <b>React</b>
 * <b>CSS</b>
 * <b>Javascript</b>
+* <b>Netlify</b>
 
 ## How to Run Locally 🏃‍♂️
 1. Clone this repository to your local machine.
