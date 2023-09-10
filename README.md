@@ -1,5 +1,5 @@
 # Personal Portfolio Website ⚡️ 
-> A clean, beautiful, responsive portfolio template!
+Welcome to my portfolio website built with React! This repository contains the code for my personal website where you can learn more about me, my skills, check out my projects, and get in touch with me.
 
 > https://anjitagargi-myportfolio.netlify.app/
 
@@ -12,43 +12,56 @@ https://github.com/anjitagargi/portfolio-website/assets/91597725/d58e2809-b40c-4
 
 :star: Star me on GitHub — it helps!
 
-
-
-## Installation & Deployment 📦
-- Clone the repository and modify the content of <b>index.html</b> according to your requirement.
-- Add or remove images from  directory as per your requirement.
-
-
 ## Sections 📚
-✔️ About me
-✔️ My Skills 
-✔️ My Projects 
-✔️ Contact
+### About Me
+In this section, you'll find information about me, my background, and my interests. I'll share a little bit about who I am and what drives me.
+
+### My Skills
+I'll showcase my skills and expertise in this section. Whether it's programming languages, tools, or technologies, you'll get an overview of what I bring to the table.
+
+### My Projects
+Here, you can explore some of the projects I've worked on. Each project will have a brief description, and you can click on them to learn more. Feel free to check out my code and see my work in action.
+
+### Contact
+If you'd like to get in touch with me, this is the section to do it. You'll find my contact information, including email and social media links. Don't hesitate to reach out; I'd love to hear from you!
 
 
 To view a live example, **[click here](https://anjitagargi-myportfolio.netlify.app/)**
 
 ## Tools Used 🛠️
-* [<b>Netlify</b>]
-* [<b>React</b>]
-* [<b>CSS</b>]
-* [<b>Javascript</b>]
+* <b>Netlify</b>
+* <b>React</b>
+* <b>CSS</b>
+* <b>Javascript</b>
 
+## How to Run Locally 🏃‍♂️
+1. Clone this repository to your local machine.
+   
+   ```cmd
+   git clone https://github.com/anjitagargi/portfolio-website.git
+    ```
 
-## Contributing 💡
-#### Step 1
+2. Navigate to the project directory.
+    ```cmd
+    cd portfolio-website
+    ```
+    
+3. Install the necessary dependencies.
+   ```cmd
+   npm install
+   ```
 
-- **Option 1**
-    - 🍴 Fork this repo!
+4. Start the development server.
+   ```cmd
+   npm start
+   ```
 
-- **Option 2**
-    - 👯 Clone this repo to your local machine.
+5. Open your web browser and visit http://localhost:3000 to view the website locally.
+   
+## Deployment 🚀
+You can deploy this portfolio website using platforms like Netlify, Vercel, GitHub Pages, or any other hosting service of your choice.
 
+## License 📝
+This project is open-source and available under the MIT License.
 
-#### Step 2
-
-- **Build your code** 🔨🔨🔨
-
-#### Step 3
-
-- 🔃 Create a new pull request.
+Thank you for visiting my portfolio website! I hope you enjoy exploring my work and learning more about me. If you have any questions or feedback, please don't hesitate to reach out through the contact section : )
