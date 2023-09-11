@@ -15,7 +15,7 @@ import{
 import {ShowcaseImageCard, Particle,} from '../styles/Showcase.styled';
 
 //importing react icons
-import {BsLinkedin, BsTwitter, BsGithub} from 'react-icons/bs';
+import {BsLinkedin, BsTwitter, BsGithub, BsMedium} from 'react-icons/bs';
 import { ShowcaseParticleContainer } from "../styles/Showcase.styled";
 
 //import assets
@@ -55,11 +55,11 @@ const Showcase = () => {
                 </Heading>
 
                 <Heading as="h4" size="h4">
-                    I'm a <BlueText>Frontend Developer</BlueText> and <BlueText>UI/UX Designer</BlueText>  
+                    I'm a <BlueText>UI/UX Designer</BlueText> and <BlueText>Frontend Developer</BlueText>  
                 </Heading>
 
                 <ParaText top = "2rem" bottom = "4rem">
-                    Hello,my name is Anjita Gargi Chandora and I'm a front-end developer and UI/UX designer. I enjoy turning complex problems into simple, beautiful and intuitive designs. When I'm not coding, you'll find me sketching, reading or watching football.
+                    Hello,my name is Anjita Gargi Chandora and I'm a UI/UX designer and front-end developer. I enjoy turning complex problems into simple, beautiful and intuitive designs. When I'm not coding, you'll find me sketching, reading or watching football.
                     </ParaText> 
 
                     {/* --social--icons--*/ }
@@ -79,6 +79,12 @@ const Showcase = () => {
                         <IconContainer size="1.5rem">
                                 <a href="https://www.github.com/anjitagargi">
                                 <BsGithub style={{ color: '#FFFFFF' }} />
+                                </a>
+                            </IconContainer>
+
+                            <IconContainer size="1.5rem">
+                                <a href="https://medium.com/@anjitagargi">
+                                <BsMedium style={{ color: '#FFFFFF' }} />
                                 </a>
                             </IconContainer>
 

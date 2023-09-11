@@ -30,7 +30,7 @@ function App() {
         <FadeImage src = {TopFadeImage} top = "0" />
         <FadeImage src = {RightFadeImage} top = "120vh" right="0vh"/>
         <FadeImage src = {LeftFadeImage} top = "250vh" left = "-20vh"  />
-        <FadeImage src = {BottomFadeImage} top = "435vh" right = "0vh" />
+        <FadeImage src = {RightFadeImage} top = "420vh" right = "0vh" />
       </MainBody>
       </ThemeProvider>
     

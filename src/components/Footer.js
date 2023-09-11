@@ -79,8 +79,8 @@ const Footer = () => {
 
                     <FlexContainer justify= "center"
                     responsiveFlex >
-                        <Button>Send Message</Button>
-
+                        <Button type="submit">Send Message</Button>
+                        
 
                     </FlexContainer>
                     </ContactForm>
