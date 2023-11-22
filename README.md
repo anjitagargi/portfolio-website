@@ -1,7 +1,7 @@
 # Personal Portfolio Website ⚡️ 
 Welcome to my portfolio website built with React! This repository contains the code for my personal website where you can learn more about me, my skills, check out my projects, and get in touch with me.
 
-> https://anjitagargi-myportfolio.netlify.app/
+> [https://anjitagargi-myportfolio.netlify.app/](https://anjitagargi.netlify.app/)
 
 ### Website Preview
 <p align="center"> 
